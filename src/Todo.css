@@ -1,0 +1,15 @@
+.todo {
+  display: flex;
+  align-items: center;
+  padding: 8px;
+  border-bottom: 1px solid #ccc;
+}
+
+.todo input {
+  margin-right: 10px;
+}
+
+.todo .completed {
+  text-decoration: line-through;
+  color: #999;
+}
